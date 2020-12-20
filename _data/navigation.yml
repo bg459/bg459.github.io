@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: bg459.github.io/publications/
+    url: /publications/
 
   - title: "News"
-    url: bg459.github.io/news/    
+    url: /news/    
 
   - title: "CV"
-    url: bg459.github.io/cv/
+    url: /cv/
     
   - title: "etc"
-    url: bg459.github.io/markdown/
+    url: /markdown/
